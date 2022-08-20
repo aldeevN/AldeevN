@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://t.me/AldeevN" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/84390242/185742052-e7365f85-272c-47c4-90b6-baf319290976.png
-" alt="my banner"></a>
+  <a href="https://t.me/AldeevN" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/84390242/185742052-e7365f85-272c-47c4-90b6-baf319290976.png" alt="my banner"></a>
 </p>
 
 
