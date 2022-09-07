@@ -42,11 +42,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Music player (React TypeScript)
-- Dictsionary Most use word in English (Working on it soon...)
-- My next blog
-- My React skill
+- <a href="https://github.com/aldeevN?tab=repositories">My own project</a>
+- <a href="https://github.com/aldeevN/Music_player-app">Music player (React TypeScript)</a>
+- <a href="https://github.com/aldeevN/Hiragana-quiz">Hiragana ques</a>
+- <a href="https://t.me/programerMaker">My next blog</a>
+- <a href="https://t.me/programerMaker">Cart for store</a>
 
 ## 🌱 I'm currently learning
 
