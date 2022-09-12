@@ -46,7 +46,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - <a href="https://github.com/aldeevN/Music_player-app">Music player (React TypeScript)</a>
 - <a href="https://github.com/aldeevN/Hiragana-quiz">Hiragana ques</a>
 - <a href="https://t.me/programerMaker">My next blog</a>
-- <a href="https://github.com/aldeevN/CartStore.git>Cart for store</a>
+- <a href="https://github.com/aldeevN/CartStore.git">Cart for store</a>
 
 ## 🌱 I'm currently learning
 
