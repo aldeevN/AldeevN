@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/AldeevN" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/84390242/185742052-e7365f85-272c-47c4-90b6-baf319290976.png" alt="my banner"></a>
+  <a href="https://t.me/AldeevN" target="_blank"></a>
 </p>
 
 
@@ -24,8 +24,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 💼 Technical Skills
 
-
-
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -35,23 +33,22 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-
-
-
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - <a href="https://github.com/aldeevN?tab=repositories">My own project</a>
 - <a href="https://github.com/aldeevN/Music_player-app">Music player (React TypeScript)</a>
-- <a href="https://github.com/aldeevN/Hiragana-quiz">Hiragana ques</a>
+- <a href="https://hiragana-quiz-red.vercel.app/">Hiragana ques</a>
 - <a href="https://t.me/programerMaker">My next blog</a>
 - <a href="https://github.com/aldeevN/CartStore.git">Cart for store</a>
+- <a href="https://aldeevn.github.io/restourant-landing">Restourant-landing</a>
+- <a href="https://aldeevn.github.io/RockPaperScissorsGame/">RockPaperScissorsGame</a>
 
 ## 🌱 I'm currently learning
 
 - TypeScript
 - Redux
-- React Context API
+- React Native
 - Styled Components  
 
