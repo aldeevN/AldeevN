@@ -28,8 +28,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
+![](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![](https://img.shields.io/badge/redux-redux-informational?style=flat&logo=redux&color=1572B6)
 
 </br>
 
@@ -46,9 +46,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - <a href="https://aldeevn.github.io/RockPaperScissorsGame/">RockPaperScissorsGame</a>
 
 ## 🌱 I'm currently learning
-
-- TypeScript
-- Redux
-- React Native
-- Styled Components  
-
+- Next.js
+- React native
+- Vue.js
+- Nuxt.js
