@@ -15,7 +15,7 @@ I'm a Fron-end Developer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-<a href="https://drive.google.com/file/d/1BEJA8TbUwcI4sSZMsUgghg1SEgFfgDx1/view?usp=share_link">Get CV</a>
+<a href="https://drive.google.com/file/d/1i_f36hY_KPjKt1jbf0b1pfzH4pKWQNF0/view?usp=sharing">Get CV</a>
 
 ## 🤝 Connect with me:
 <a href="mailto:aldeev33@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
