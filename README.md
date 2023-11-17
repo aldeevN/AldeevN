@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://portfolio-aldeev-n-t5wr.vercel.app/#contact" target="_blank" rel="noreferrer">Nurgali</a> 👋
+Hi there, I'm <a href="https://portfolio-aldeev-n-t5wr.vercel.app/#home" target="_blank" rel="noreferrer">Nurgali</a> 👋
 </h3>
 
 
